@@ -76,36 +76,16 @@ Tools to explore: Test.ai, Applitools, Mabl
 
 🧩 Collaboration & Teamwork
 
-
 🎯 Attention to Detail
 
 🚀 Growth Mindset
 
-
-## 📌 Projects
-
-Here are some of my milestone projects (to be updated as I progress!):
-
-### **1️⃣ First GitHub Project**
-
-🔹 **Description:** My first project using GitHub to manage files.  
-🔹 **Status:** ✅ Completed
-
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
-
-🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Technologies:** HTML, CSS
-🔹 **Status:** ⏳ In Progress
-
----
 
 ## 📚 Learning Goals
 
 - 🚀 Get comfortable using Git and GitHub
 - 🎨 Learn HTML, CSS, and JavaScript
 - 💡 Build real-world projects and collaborate with others
-
----
 
 ## 📫 Connect with Me
 
