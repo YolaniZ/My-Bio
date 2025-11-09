@@ -22,15 +22,6 @@ Languages: HTML, CSS, JavaScript, Python, SQL
 Frameworks & Libraries: React, Node.js, Express.js, Bootstrap
 Version Control: Git, GitHub
 
-
-## 🎯 About Me
-
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
-- 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
-
-
 **Future Technologies:**
 
 
