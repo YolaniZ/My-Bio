@@ -92,13 +92,7 @@ Tools to explore: Test.ai, Applitools, Mabl
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 📧 Email: yolanzito@gmail.com
----
 
-## 🚀 Fun Fact
-
-💡 I love learning new things and can't wait to build my first website!
-
----
 
 ## 🏆 GitHub Stats
 
