@@ -64,12 +64,23 @@ Tools to explore: Test.ai, Applitools, Mabl
 
 ## 🏆 Soft Skills
 
-- 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
-- 🎯 Problem-Solving
-- 🚀 Adaptability
+🤝 Empathy & Customer Focus
 
----
+🧠 Problem Solving
+
+🗣️ Communication
+
+⏱️ Time Management
+
+🔄 Adaptability
+
+🧩 Collaboration & Teamwork
+
+
+🎯 Attention to Detail
+
+🚀 Growth Mindset
+
 
 ## 📌 Projects
 
