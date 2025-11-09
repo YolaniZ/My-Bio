@@ -99,8 +99,3 @@ Agile Project Participation: Actively involved in agile development practices, i
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 📧 Email: yolanzito@gmail.com
-
-
-## 🏆 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
