@@ -87,6 +87,13 @@ Tools to explore: Test.ai, Applitools, Mabl
 - 🎨 Learn HTML, CSS, and JavaScript
 - 💡 Build real-world projects and collaborate with others
 
+🏆 My achievements
+
+Career Growth: Successfully balancing a full-time role as an Agent: Client Care while pursuing a Software Engineering qualification.
+Technical Upskilling: Gained hands-on experience in front-end and back-end development, UX design, software testing, DevOps, cybersecurity, and data analysis through coursework and personal projects.
+Customer Service Impact: Consistently recognized for delivering exceptional client support and contributing to positive customer experiences.
+Agile Project Participation: Actively involved in agile development practices, including sprint planning, retrospectives, and collaborative coding.
+
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
