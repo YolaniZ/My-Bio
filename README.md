@@ -5,7 +5,15 @@ With a background in customer service, I bring empathy, problem-solving, and com
 
 I thrive in collaborative environments and am committed to growing into a tech-driven role where I can apply my evolving technical expertise to real-world challenges.
 
+🧩 Contributions and Activity
 
+💬 Client-Centric Development: Actively applying software engineering principles to enhance customer support systems, bridging the gap between technical solutions and user experience.
+🛠️ Open Source Contributions: Participated in community-driven projects focused on front-end development and accessibility improvements.
+🧪 Software Testing Projects: Developed automated test scripts and contributed to bug tracking and resolution in collaborative coding environments.
+🚀 Agile Collaboration: Engaged in agile sprints and retrospectives, contributing to planning, documentation, and iterative development cycles.
+🔐 Cybersecurity Learning: Explored secure coding practices and basic vulnerability assessments through hands-on labs and personal projects.
+📊 Data Analysis Practice: Built Python scripts for data cleaning, visualization, and exploratory analysis as part of coursework and self-learning.
+🌍 Community Engagement: Supporting fellow learners through forums and peer reviews, fostering a collaborative and inclusive tech learning environment.
 
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
